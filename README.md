@@ -1,4 +1,4 @@
-# 🚀 ContentAI - Complete Product Delivery Summary
+# 🚀 ContentAI - Complete Product Delivery Summary.
 
 ## What You Just Got
 
