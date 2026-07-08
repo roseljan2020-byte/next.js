@@ -72,6 +72,15 @@ export default function Home() {
               <h1 className="text-4xl font-bold text-white">ContentAI</h1>
             </div>
             <p className="text-slate-400 text-lg">Generate high-converting marketing copy in seconds</p>
+    <div className="mt-4">
+          <a
+            href="/pricing"
+            className="text-blue-400 hover:text-blue-300 font-medium transition"
+          >
+            Pricing →
+          </a>
+        </div>
+    
           </div>
         </div>
 
